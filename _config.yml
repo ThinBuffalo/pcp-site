@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: PCP Foundation
+title: PCP基金会
 subtitle: ''
 description: ''
 keywords:
-author: PCP
+author: PCP Foundation
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://pcp-pi.vercel.app/
 permalink: posts/:title/
 permalink_defaults:
 pretty_urls:
